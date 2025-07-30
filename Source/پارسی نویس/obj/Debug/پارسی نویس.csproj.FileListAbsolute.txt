@@ -1,0 +1,19 @@
+D:\Programming\C#\پارسی نویس\پارسی نویس\bin\Debug\پارسی نویس.exe
+D:\Programming\C#\پارسی نویس\پارسی نویس\bin\Debug\پارسی نویس.pdb
+D:\Programming\C#\پارسی نویس\پارسی نویس\obj\Debug\پارسی نویس.csprojAssemblyReference.cache
+D:\Programming\C#\پارسی نویس\پارسی نویس\obj\Debug\پارسی_نویس.Form1.resources
+D:\Programming\C#\پارسی نویس\پارسی نویس\obj\Debug\پارسی_نویس.Properties.Resources.resources
+D:\Programming\C#\پارسی نویس\پارسی نویس\obj\Debug\پارسی نویس.csproj.GenerateResource.cache
+D:\Programming\C#\پارسی نویس\پارسی نویس\obj\Debug\پارسی نویس.csproj.CoreCompileInputs.cache
+D:\Programming\C#\پارسی نویس\پارسی نویس\obj\Debug\پارسی نویس.exe
+D:\Programming\C#\پارسی نویس\پارسی نویس\obj\Debug\پارسی نویس.pdb
+D:\Programming\C#\پارسی نویس\پارسی نویس\obj\Debug\پارسی_نویس.ErrDeti.resources
+D:\Programming\C#\پارسی نویس\پارسی نویس\obj\Debug\پارسی_نویس.STRUP.resources
+D:\Programming\C#\پارسی نویس\پارسی نویس\obj\Debug\پارسی_نویس.Form2.resources
+D:\Programming\C#\پارسی نویس\پارسی نویس\obj\Debug\پارسی_نویس.Aboutus.resources
+D:\Programming\C#\پارسی نویس\پارسی نویس\bin\Debug\پارسی نویس.exe.manifest
+D:\Programming\C#\پارسی نویس\پارسی نویس\bin\Debug\پارسی نویس.application
+D:\Programming\C#\پارسی نویس\پارسی نویس\obj\Debug\پارسی نویس.TrustInfo.xml
+D:\Programming\C#\پارسی نویس\پارسی نویس\obj\Debug\پارسی نویس.exe.manifest
+D:\Programming\C#\پارسی نویس\پارسی نویس\obj\Debug\پارسی نویس.application
+D:\Programming\C#\پارسی نویس\پارسی نویس\bin\Debug\پارسی نویس.exe.config
